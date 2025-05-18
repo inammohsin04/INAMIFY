@@ -40,7 +40,7 @@ const HomePage: React.FC = () => {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5 }}
               >
-                Welcome to INAMIFY
+                Welcome to InAmify
               </motion.h1>
               <motion.p 
                 className="text-xl mb-8"
