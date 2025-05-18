@@ -23,7 +23,7 @@ const Footer: React.FC = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-center mb-8">
           <ShoppingBag size={32} className="text-indigo-400 mr-2" />
-          <span className="text-3xl font-bold">INAMIFY</span>
+          <span className="text-3xl font-bold">InAmify</span>
         </div>
         
         <p className="text-center text-gray-300 max-w-2xl mx-auto mb-12">
@@ -168,7 +168,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-gray-700 pt-6 pb-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              &copy; 2025 INAMIFY. All rights reserved.
+              &copy; 2025 InAmify. All rights reserved.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-white text-sm transition duration-300">
