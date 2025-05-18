@@ -180,7 +180,7 @@ const CustomerDashboard: React.FC = () => {
           <div className="space-y-6">
             <h3 className="text-xl font-semibold">Sell a Product</h3>
             <div className="bg-white rounded-lg shadow p-8 text-center">
-              <h4 className="text-lg font-medium mb-4">Become a Seller on INAMIFY</h4>
+              <h4 className="text-lg font-medium mb-4">Become a Seller on InAmify</h4>
               <p className="text-gray-600 mb-6">
                 Want to list your products and start selling? Join our seller community!
               </p>
