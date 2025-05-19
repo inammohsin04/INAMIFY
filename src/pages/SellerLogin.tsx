@@ -123,7 +123,7 @@ const SellerLogin: React.FC = () => {
               Seller Portal
             </h2>
             <p className="mt-2 text-center text-sm text-gray-600">
-              Sell your products on INAMIFY
+              Sell your products on UrbanEdge
             </p>
           </div>
           
