@@ -23,7 +23,7 @@ const Footer: React.FC = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-center mb-8">
           <ShoppingBag size={32} className="text-indigo-400 mr-2" />
-          <span className="text-3xl font-bold">InAmify</span>
+          <span className="text-3xl font-bold">UrbanEdge</span>
         </div>
         
         <p className="text-center text-gray-300 max-w-2xl mx-auto mb-12">
