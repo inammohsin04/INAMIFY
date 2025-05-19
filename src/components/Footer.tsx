@@ -168,7 +168,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-gray-700 pt-6 pb-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              &copy; 2025 InAmify. All rights reserved.
+              &copy; 2025 UrbanEdge. All rights reserved.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-white text-sm transition duration-300">
